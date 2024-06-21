@@ -33,6 +33,10 @@ p {
     text-align: justify;
 }
 
+h6 {
+    color: #039BE5
+}
+
 
 /**********************************/
 /****** Layout with Sidebar *******/
